@@ -10,6 +10,11 @@
 
 > Mobil URL kısaltma uygulaması
 
+[rel.ink](https://rel.ink/) açık API kullanılarak yapılmıştır.
+
+
+![](ss/ss.gif)
+
 ## Author
 
 👤 **Ahmet Korkmaz**
