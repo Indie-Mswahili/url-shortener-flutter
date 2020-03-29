@@ -1,16 +1,31 @@
-# linkshortener
+<h1 align="center">Welcome to URL Shortener 👋</h1>
+<p>
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/ahmetmkorkmaz" target="_blank">
+    <img alt="Twitter: ahmetmkorkmaz" src="https://img.shields.io/twitter/follow/ahmetmkorkmaz.svg?style=social" />
+  </a>
+</p>
 
-Link shortener for everyone
+> Mobil URL kısaltma uygulaması
 
-## Getting Started
+## Author
 
-This project is a starting point for a Flutter application.
+👤 **Ahmet Korkmaz**
 
-A few resources to get you started if this is your first Flutter project:
+* Website: ahmetkorkmaz3.github.io
+* Twitter: [@ahmetmkorkmaz](https://twitter.com/ahmetmkorkmaz)
+* Github: [@ahmetkorkmaz3](https://github.com/ahmetkorkmaz3)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Show your support
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Ahmet Korkmaz](https://github.com/ahmetkorkmaz3).<br />
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
